@@ -1,3 +1,3 @@
-## Idea
+#hosted url
 
-[https://uidesigndaily.com/](https://uidesigndaily.com/posts/sketch-birthdays-list-card-widget-day-1042)
+https://sharp-golick-8aef75.netlify.app/
