@@ -1,3 +1,3 @@
-# hosted url
+## hosted url
 
-[a link](https://objective-fermat-00e719.netlify.app)
+https://objective-fermat-00e719.netlify.app
