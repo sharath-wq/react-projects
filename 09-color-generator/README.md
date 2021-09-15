@@ -1,3 +1,3 @@
-#### Values JS
+# hosted url
 
-[values.js](https://github.com/noeldelgado/values.js)
+https://focused-agnesi-38f641.netlify.app/
